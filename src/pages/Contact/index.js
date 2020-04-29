@@ -91,7 +91,7 @@ const Contact = () => {
                 href="https://drive.google.com/open?id=1bsN_snEQ0E-Ryk2BOoGSnNn-pdXcECyh"
                 target="_blank"
               >
-                Baixar Meu Curriculo
+                Ver Meu Curriculo
               </Link>
             </DivContact>
           </Div>
