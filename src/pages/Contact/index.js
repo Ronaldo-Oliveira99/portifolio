@@ -88,7 +88,7 @@ const Contact = () => {
             <DivContact>
               <AttachFileIcon />
               <Link
-                href="https://drive.google.com/file/d/1SPMD6ph4irlwnvNgK1YOeHT4xB_2sFsZ/view?usp=sharing"
+                href="https://drive.google.com/open?id=1bsN_snEQ0E-Ryk2BOoGSnNn-pdXcECyh"
                 target="_blank"
               >
                 Baixar Meu Curriculo
