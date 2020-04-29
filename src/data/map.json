@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+
+  "features": [
+    {
+      "type": "Feature",
+
+      "properties": {
+        "PLACE_ID": 1,
+        "NAME": "Vale do Paraíba",
+        "ADDRESS": "Rua dos Ciprestes, 150 - Jacareí/ SP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-23.31611, -45.92613]
+      }
+    },
+    {
+      "type": "Feature",
+
+      "properties": {
+        "PLACE_ID": 2,
+        "NAME": "São Paulo, Capital",
+        "ADDRESS": "Rua Fim de Primavera, 320 - Zona Sul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-23.64479, -46.75401]
+      }
+    }
+  ]
+}
