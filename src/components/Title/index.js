@@ -59,8 +59,7 @@ const Description = () => {
         React e me interessei bastante neste Framework. No começo de 2020
         participei do AceleraDev da codenation, onde adquiri atraves dos estudos
         e desafios, um aprendizado mais profundo adicionando redux e styled
-        components no meu workflow, agora é um caminho sem volta. Estou
-        envolvidão rs. <br></br>Mas tenho muito que aprender. Desenvolvi este
+        components no meu workflow. <br></br>Mas tenho muito que aprender. Desenvolvi este
         site e peço desculpas pois ele ainda está em obras e melhorias, mas meus
         poucos projetos precisavam de um lugar para morar rs, então abriguei
         eles aqui com pouco acabamento mesmo. Porém conforme irei aprendendo
