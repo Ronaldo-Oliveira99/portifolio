@@ -88,7 +88,7 @@ const Contact = () => {
             <DivContact>
               <AttachFileIcon />
               <Link
-                href="https://drive.google.com/open?id=1bsN_snEQ0E-Ryk2BOoGSnNn-pdXcECyh"
+                href="https://drive.google.com/file/d/1lAjQZe6FrEYCo2mzf9g30CELHWL8H-tQ/view?usp=sharing"
                 target="_blank"
               >
                 Ver Meu Curriculo
