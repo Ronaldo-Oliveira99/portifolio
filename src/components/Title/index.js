@@ -38,7 +38,7 @@ const Title = () => {
     <DivHeader>
       <Plogo>Ronaldo</Plogo>
       <Plogo>Luiz</Plogo>
-      <P>Um aprendiz FrontEnd</P>
+      <P>Um aprendiz FrontEnd 2</P>
     </DivHeader>
   );
 };
